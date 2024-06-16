@@ -35,13 +35,17 @@
 
 ## Media
 
-- [To add] Inventory 
+- Inventory 
 
 ![Blueprints](https://github.com/matheusperches/UE4-Inventory-Blueprints/blob/main/inventory.png?raw=true)
 
 - Blueprints
 
 ![Blueprints](https://github.com/matheusperches/UE4-Inventory-Blueprints/blob/main/blueprints.png?raw=true)
+
+- Highlight system
+
+![Blueprints](https://github.com/matheusperches/UE4-Inventory-Blueprints/blob/main/highlight.png?raw=true)
 
 - Test Level
 
