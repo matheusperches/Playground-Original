@@ -3,7 +3,7 @@
 
 #### [Return to my Portfolio](https://github.com/matheusperches/matheusperches.github.io) 
 
-## [UE4-Inventory-Blueprints](https://github.com/matheusperches/PlaygroundProj)
+## [UE4-Inventory-Blueprints](https://github.com/matheusperches/UE4-Inventory-Blueprints)
 
 #### Personal Unreal Engine 4 project of a six degrees of freedom spaceship.
 
