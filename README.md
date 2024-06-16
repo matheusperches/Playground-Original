@@ -35,14 +35,14 @@
 
 ## Media
 
-- [To add] Inventory preview
+- [To add] Inventory 
 
-![Demo gif]()
+![Blueprints](https://github.com/matheusperches/UE4-Inventory-Blueprints/blob/main/inventory.png?raw=true)
 
 - Blueprints
 
-![To Add]()
+![Blueprints](https://github.com/matheusperches/UE4-Inventory-Blueprints/blob/main/blueprints.png?raw=true)
 
 - Test Level
 
- ![To add]() 
+ ![Editor](https://github.com/matheusperches/UE4-Inventory-Blueprints/blob/main/editor.png?raw=true) 
